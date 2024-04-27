@@ -1,0 +1,23 @@
+.but{
+    width: 50px;
+}
+.image{
+   background-image:url(images/_x31_.svg) ;
+   background-repeat: no-repeat;
+   background-position: 50px;
+   background-size: 700px;
+   width: 300px;
+  
+}
+.heading{
+    color: #491D8B;
+    ;
+    
+}
+.bgb{
+    background-color: #0A84FF;
+    ;
+}
+.con{
+    width: 100%;
+}
